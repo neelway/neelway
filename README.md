@@ -11,6 +11,7 @@ I'm **Neelesh Tripathi** (neelway), a passionate **Full Stack Developer** with e
 
 ### Backend
 - **Node.js** - JavaScript runtime for server-side development
+- - **PHP** - Server-side web development and API creation
 
 ### Cloud & Infrastructure
 - **AWS CDK** - Infrastructure as Code using AWS
