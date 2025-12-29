@@ -21,6 +21,9 @@ I'm **Neelesh Tripathi** (neelway), a passionate **Full Stack Developer** with e
 ### Desktop Applications
 - Building scalable desktop applications
 
+- ### AI & Gen AI
+- **Generative AI** - Working with Gen AI models and applications
+
 ## 💼 What I Do
 
 - Design and develop full-stack web applications
