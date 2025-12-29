@@ -8,8 +8,6 @@ I'm **Neelesh Tripathi** (neelway), a passionate **Full Stack Developer** with e
 - **Angular** - Modern SPA framework
 - **React** - UI library for component-based development
 - **Next.js** - React framework with SSR capabilities
-- - **electroj** - Electronic components library
-
 ### Backend
 - **Node.js** - JavaScript runtime for server-side development
 - - **PHP** - Server-side web development and API creation
